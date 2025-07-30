@@ -1,15 +1,16 @@
 # Shakespearean Text Generator
 ## Table of Contents
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [How it Works: Recurrent Neural Networks (RNNs)](https://www.google.com/search?q=%23how-it-works-recurrent-neural-networks-rnns)
-      - [Long Short-Term Memory (LSTM)](https://www.google.com/search?q=%23long-short-term-memory-lstm)
-  - [Dataset](https://www.google.com/search?q=%23dataset)
-  - [Preprocessing](https://www.google.com/search?q=%23preprocessing)
-  - [Model Architecture](https://www.google.com/search?q=%23model-architecture)
-  - [Text Generation](https://www.google.com/search?q=%23text-generation)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-  - [Libraries Used](https://www.google.com/search?q=%23libraries-used)
+  - [Project Overview](https://github.com/nouninasion/RNN_project/blob/main/README.md#project-overview)
+  - [How it Works: Recurrent Neural Networks (RNNs)](https://github.com/nouninasion/RNN_project/blob/main/README.md#how-it-works-recurrent-neural-networks-rnns)
+      - [Long Short-Term Memory (LSTM)](https://github.com/nouninasion/RNN_project/blob/main/README.md#long-short-term-memory-lstm)
+  - [Dataset](https://github.com/nouninasion/RNN_project/blob/main/README.md#dataset)
+  - [Preprocessing](https://github.com/nouninasion/RNN_project/blob/main/README.md#preprocessing)
+  - [Model Architecture](https://github.com/nouninasion/RNN_project/blob/main/README.md#model-architecture)
+  - [Text Generation](https://github.com/nouninasion/RNN_project/blob/main/README.md#text-generation)
+  - [Getting Started](https://github.com/nouninasion/RNN_project/blob/main/README.md#getting-started)
+  - [Libraries Used]([https://www.google.com/search?q=%23libraries-used](https://github.com/nouninasion/RNN_project/blob/main/README.md#libraries-used))
+  - [Example Output]([https://github.com/nouninasion/RNN_project/blob/main/README.md#example-output])
 
 ## Project Overview
 
