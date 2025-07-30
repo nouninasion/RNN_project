@@ -9,8 +9,8 @@
   - [Model Architecture](https://github.com/nouninasion/RNN_project/blob/main/README.md#model-architecture)
   - [Text Generation](https://github.com/nouninasion/RNN_project/blob/main/README.md#text-generation)
   - [Getting Started](https://github.com/nouninasion/RNN_project/blob/main/README.md#getting-started)
-  - [Libraries Used]([https://www.google.com/search?q=%23libraries-used](https://github.com/nouninasion/RNN_project/blob/main/README.md#libraries-used))
-  - [Example Output]([https://github.com/nouninasion/RNN_project/blob/main/README.md#example-output])
+  - [Libraries Used](https://github.com/nouninasion/RNN_project/blob/main/README.md#libraries-used)
+  - [Example Output](https://github.com/nouninasion/RNN_project/blob/main/README.md#example-output)
 
 ## Project Overview
 
